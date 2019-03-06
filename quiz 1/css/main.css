@@ -1,0 +1,21 @@
+body{background-color:orange;}
+h1{background-color:grey;
+border-width:4px;
+border-color:black;
+border-style:solid;
+padding: 20px
+text-align:center;}
+h2{color:blue;}
+h3{color:blue;}
+
+h4{color:blue;}
+
+p {color:black;
+font-family:sans-serif;}
+
+#my-title{background-color:transparent;}
+
+
+.center-content p { background-color: transparent;
+width:150px
+margin: 0 auto; }
